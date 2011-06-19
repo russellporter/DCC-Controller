@@ -278,11 +278,11 @@ suppose!
 ## References
 -   teh codez: [github][]
 -   Arduino Port Mapping: [arduino.cc][]
--   Port Manipulation: [[arduino.cc]][3]
+-   Port Manipulation: [arduino.cc][3]
 -   Benchmarking different ways of changing Arduino pins: [billporter.info](http://www.billporter.info/ready-set-oscillate-the-fastest-way-to-change-arduino-pins/)
 
-  [[github]]: https://github.com/Harnesser/DCC-Controller
-  [[arduino.cc]]: http://arduino.cc/en/Reference/Atmega168Hardware
+  [github]: https://github.com/Harnesser/DCC-Controller
+  [arduino.cc]: http://arduino.cc/en/Reference/Atmega168Hardware
   [3]: http://arduino.cc/en/Reference/PortManipulation
   [image3]: https://github.com/russellporter/DCC-Controller/raw/master/doc/images/dcc_serial_fsm.png
   [image2]: https://github.com/russellporter/DCC-Controller/raw/master/doc/images/dcc_driver_data_flow.png
