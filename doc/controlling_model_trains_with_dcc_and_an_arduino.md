@@ -98,7 +98,7 @@ me borrow a train.
 The firmware to implement the basic DCC spec is interesting enough and
 would make an interesting post on its own. So that’s what I’ll do.
 
-  [image]: images/dcc_dads_train.jpg
+  [image]: https://github.com/russellporter/DCC-Controller/raw/master/doc/images/dcc_dads_train.jpg
   [L293D]: http://www.datasheetcatalog.com/datasheets_pdf/L/2/9/3/L293D.shtml
-  [1]: images/dcc_driver_circuit.png
-  [2]: images/dcc_system_setup.png
+  [1]: https://github.com/russellporter/DCC-Controller/raw/master/doc/images/dcc_driver_circuit.png
+  [2]: https://github.com/russellporter/DCC-Controller/raw/master/doc/images/dcc_system_setup.png

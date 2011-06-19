@@ -284,12 +284,12 @@ suppose!
   [[github]]: https://github.com/Harnesser/DCC-Controller
   [[arduino.cc]]: http://arduino.cc/en/Reference/Atmega168Hardware
   [3]: http://arduino.cc/en/Reference/PortManipulation
-  [image3]: images/dcc_serial_fsm.png
-  [image2]: images/dcc_driver_data_flow.png
+  [image3]: https://github.com/russellporter/DCC-Controller/raw/master/doc/images/dcc_serial_fsm.png
+  [image2]: https://github.com/russellporter/DCC-Controller/raw/master/doc/images/dcc_driver_data_flow.png
   [spec]: http://www.nmra.org/standards/DCC/standards_rps/DCCStds.html
-  [image]: images/dcc_signal.png
-  [1]: images/dcc_sparkline_bad.png
-  [2]: images/dcc_sparkline_good.png
+  [image]: https://github.com/russellporter/DCC-Controller/raw/master/doc/images/dcc_signal.png
+  [1]: https://github.com/russellporter/DCC-Controller/raw/master/doc/images/dcc_sparkline_bad.png
+  [2]: https://github.com/russellporter/DCC-Controller/raw/master/doc/images/dcc_sparkline_good.png
   [too slow]: http://www.billporter.info/ready-set-oscillate-the-fastest-way-to-change-arduino-pins/
   [PORTB]: http://arduino.cc/en/Reference/Atmega168Hardware
   [directly manipulating]: http://arduino.cc/en/Reference/PortManipulation
