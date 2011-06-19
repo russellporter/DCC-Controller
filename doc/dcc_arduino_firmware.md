@@ -276,8 +276,8 @@ that’s about these days…”. Fair play, no point in using old tech, I
 suppose!
 
 ## References
--   teh codez: [[github]][github]
--   Arduino Port Mapping: [[arduino.cc]][arduino.cc]
+-   teh codez: [github][]
+-   Arduino Port Mapping: [arduino.cc][]
 -   Port Manipulation: [[arduino.cc]][3]
 -   Benchmarking different ways of changing Arduino pins: [billporter.info](http://www.billporter.info/ready-set-oscillate-the-fastest-way-to-change-arduino-pins/)
 
